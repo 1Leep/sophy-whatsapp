@@ -1,0 +1,6 @@
+2022/04/16-23:32:04.122 10ec Creating DB C:\Users\Leep8\OneDrive\Área de Trabalho\Coisas\Programaçao\JavaScript\outros\sophy\_IGNORE_sophy\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/04/16-23:32:04.205 10ec Reusing MANIFEST C:\Users\Leep8\OneDrive\Área de Trabalho\Coisas\Programaçao\JavaScript\outros\sophy\_IGNORE_sophy\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/16-23:32:04.914 2a08 Level-0 table #5: started
+2022/04/16-23:32:04.967 2a08 Level-0 table #5: 7508 bytes OK
+2022/04/16-23:32:05.021 2a08 Delete type=0 #3
+2022/04/16-23:32:05.023 2a08 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
